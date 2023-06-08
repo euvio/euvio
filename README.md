@@ -1,10 +1,14 @@
 ### Hi there 👋
 
-SVN : TortoiseSVN
+| Git                 | SVN         | Editor           |
+| ------------------- | ----------- | ---------------- |
+| TortoiseGit         | TortoiseSVN | EmEditor         |
+| GithubDesktop       |             | VisualStudioCode |
+| VisualStudioGitTool |             | VisualStudio     |
+|                     |             | Typora           |
+|                     |             | Joplin           |
 
-Git : TortoiseGit  GithubDesktop  VisualStudioGitFlow  BeyondCompare
 
-Editor: Visual Studio  VisualStudioCode  EmEditor  Typora  Joplin
 
 
 
