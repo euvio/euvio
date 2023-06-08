@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-| Git                 | SVN         | Editor           |
+| Git                 | Svn        | Editor           |
 | ------------------- | ----------- | ---------------- |
-| TortoiseGit         | TortoiseSVN | EmEditor         |
+| TortoiseGit         | TortoiseSvn | EmEditor         |
 | GithubDesktop       |             | VisualStudioCode |
 | VisualStudioGitTool |             | VisualStudio     |
 |                     |             | Typora           |
