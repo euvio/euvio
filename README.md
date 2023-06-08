@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-Tools
-Visual Studio | VisualStudioCode | EmEditor | Notepad++ | Typora
+SVN : TortoiseSVN
+Git : TortoiseGit  GithubDesktop  VisualStudioGitFlow  BeyondCompare
+Editor: Visual Studio  VisualStudioCode  EmEditor  Typora  Joplin
 
-TortoiseGit | GithubDesktop | VisualStudioGitFlow | BeyondCompare
+
 
 <!--
 **euvio/euvio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
