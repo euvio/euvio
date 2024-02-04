@@ -1,3 +1,12 @@
+
+| Name                 | Model        | Description     | Factory | Port parameters | protocol | sample of message |
+| ------------------- | ----------- | ---------------- | ---------| ---------| ---------| ---------|
+|  Chiller     | HRZ |          | SMC | 7-even-1-None | ModbusAscii | |
+
+
+
+
+
 ### Hi there 👋
 
 | Git                 | Svn        | Editor           |
