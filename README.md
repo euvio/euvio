@@ -1,7 +1,7 @@
 
-| Name                 | Model        | Description     | Factory | Port parameters | protocol | sample of message |
-| ------------------- | ----------- | ---------------- | ---------| ---------| ---------| ---------|
-|  Chiller     | HRZ |          | SMC | 7-even-1-None | ModbusAscii | |
+| NO.  | Name    | Model | Description | 请求频率 | Factory | Port parameters | protocol    | flow control | error check rule | 电气接口 | sample of message |
+| ---- | ------- | ----- | ----------- | -------- | ------- | --------------- | ----------- | ------------ | ---------------- | -------- | ----------------- |
+| 1    | Chiller | HRZ   |             |          | SMC     | 7-even-1-None   | ModbusASCII |              |                  |          |                   |
 
 
 
