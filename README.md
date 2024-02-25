@@ -2,7 +2,7 @@
 | NO.  | Name    | Model | Description | 请求频率 | Factory | Port parameters | protocol    | flow control | error check rule | 电气接口 | sample of message |
 | ---- | ------- | ----- | ----------- | -------- | ------- | --------------- | ----------- | ------------ | ---------------- | -------- | ----------------- |
 | 1    | Chiller | HRZ   |             |          | SMC     | 7-even-1-None   | ModbusASCII |              |                  |          |                   |
-
+| 2    |  Plasma Power | Xstream Remote Plasma Source   |             |          |      | 8-odd-1-None   |  |       XOR       |                  |          |                   |
 
 
 
